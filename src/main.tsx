@@ -1,7 +1,7 @@
 //ARQUIVO PRINCIPAL
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import Home from './pages/Homes'
+import Home from '.'
 
 import './index.css'
 
